@@ -35,9 +35,9 @@
   <url>http://www.mybatis.org</url>
 
   <scm>
-    <url>http://github.com/mybatis/jpetstore-6</url>
-    <connection>scm:git:ssh://github.com/mybatis/jpetstore-6.git</connection>
-    <developerConnection>scm:git:ssh://git@github.com/mybatis/jpetstore-6.git</developerConnection>
+    <url>https://github.com/haryprasad11/JPet_store</url>
+    <connection>scm:git:ssh://github.com:haryprasad11/JPet_store.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com:haryprasad11/JPet_store.git</developerConnection>
     <tag>HEAD</tag>
   </scm>
   <issueManagement>
@@ -46,13 +46,13 @@
   </issueManagement>
   <ciManagement>
     <system>Travis CI</system>
-    <url>https://travis-ci.org/mybatis/jpetstore-6</url>
+    <url>https://travis-ci.org/haryprasad11/JPet_Store</url>
   </ciManagement>
   <distributionManagement>
     <site>
       <id>gh-pages</id>
       <name>Mybatis GitHub Pages</name>
-      <url>git:ssh://git@github.com/mybatis/jpetstore-6.git?gh-pages#</url>
+      <url>git:ssh://git@github.com:haryprasad11/JPet_store.git?gh-pages#</url>
     </site>
   </distributionManagement>
 
